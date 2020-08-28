@@ -3,3 +3,4 @@
 ### Matérias:
 
 - Algoritmos de Scheduling
+- Algoritmo de Moore
