@@ -4,3 +4,6 @@
 
 - Algoritmos de Scheduling
 - Algoritmo de Moore
+- PMP LPT/SPT
+- Algoritmo de Johnson
+- Parallel Flow Shop Problem
