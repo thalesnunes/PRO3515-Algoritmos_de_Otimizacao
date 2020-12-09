@@ -7,3 +7,8 @@
 - PMP LPT/SPT
 - Algoritmo de Johnson
 - Parallel Flow Shop Problem
+- Algoritmo NEH
+- Local Search
+- Iterated Greedy Search
+- Análise estatística de dados
+- Modelamento de problemas no Gurobi
